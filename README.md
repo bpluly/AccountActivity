@@ -1,5 +1,5 @@
 # AccountActivity
- Implementation of Account Activity API for Tweepy
+ Implementation of Account Activity API for Tweepy, this is to address https://github.com/tweepy/tweepy/issues/1075
  
  Twitter changed its delivery of events on user accounts to a single application hook with the Account Activity API. This API is documented at https://developer.twitter.com/en/docs/accounts-and-users/subscribe-account-activity/api-reference/aaa-premium
  
