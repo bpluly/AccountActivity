@@ -11,11 +11,10 @@
  
  The env string is the environment defined for the application and is necessary for any sandbox application. Only Enterprise applications have a production environment. The ':' is not part of the URL path.
  
- 
+ *** Created a pull request for this at https://github.com/tweepy/tweepy/pull/1290
  
  **TODO**
  
- PUT account_activity/all/:env_name/webhooks/:webhook_id.json
  DELETE account_activity/all/:env_name/webhooks/:webhook_id.json
  DELETE account_activity/all/:env_name/subscriptions/:user_id.json
  
