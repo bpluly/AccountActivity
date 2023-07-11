@@ -1,5 +1,7 @@
 # AccountActivity
  Implementation of Account Activity API for Tweepy, this is to address https://github.com/tweepy/tweepy/issues/1075
+
+ ### **As Twitter no longer supports the AccountActivity API this implementation is now purely history. It would be anyway as Tweepy 4.x is a differently structured API proxy.**
  
  Twitter changed its delivery of events on user accounts to a single application hook with the Account Activity API. This API is documented at https://developer.twitter.com/en/docs/accounts-and-users/subscribe-account-activity/api-reference/aaa-premium
  
